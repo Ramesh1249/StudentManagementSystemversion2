@@ -1,0 +1,153 @@
+body
+{
+	background-color:black;
+}
+.labels
+{
+    margin-right: 31px;
+text-align: center;
+
+line-height: 45px;
+width: 72px; 
+}
+.border{
+    /* width: 20px; */
+    padding-right: 37px;
+    background-color:#f0a64e;
+}
+.border .border1
+{
+    width: 46px;
+}
+.border .border2
+{
+    width: 115px;
+}
+.border .border8{
+    width: 100px;
+}
+.border .border6{
+   width: 80px;
+}
+
+.logo
+{
+	margin: auto;
+font-family: sans-serif;
+font-size: 22px;
+background-color: rgb(235,235,235);
+text-align: center;
+border-radius: 0px 5px 5px 0px;
+height: 83px;
+width: 797px;
+line-height: 30px;
+float: right;
+color: rgb(5,57,140);
+margin-right:7px;
+}
+.logoimg
+{
+	width:203px;
+	height:83px;
+	
+	
+	
+}
+.adminmenu
+{
+margin: auto;
+margin-top:20px;
+line-height: 35px;
+
+font-size: 17px;
+float:left;
+width: 209px;
+height: 500px;
+background-color: rgb(235,235,235);
+border-radius: 5px;
+}
+label{
+display:inline-block;
+width:200px;
+margin-right:30px;
+text-align:right;
+}
+.addcourse
+{
+	margin-left:20px;
+}	
+.addbutton
+{
+	width: 126px;
+margin-left: 21px;
+margin-top: 16px;
+}
+input{
+
+}
+
+fieldset{
+border:none;
+width:500px;
+margin:0px auto;
+}
+.adding
+{
+	margin: auto;
+line-height: 37px;
+}
+.submit
+{
+	width: 141px;
+margin-left: 174px;
+}
+.mainmenu
+{
+	margin:auto;
+	background-color:rgb(235,235,235);
+	border-radius:5px;
+	width: 778px;
+margin-left: 222px;
+height: 500px;
+
+}
+.table-1
+{
+    position: fixed; 
+    top: 0px;
+    
+}
+.recordslist
+{
+    overflow-y: scroll;
+    height: 468px;
+}
+.recordlabels
+{
+    height: 200px;
+    
+}
+.label
+{
+	padding-right: 23px;
+	background-color: rgba(0,0,0,0.3);
+	border-radius: 5px 5px 0px 0px;
+	text-align:right;
+	border-bottom: 1px solid #141313;
+	height: 24px;
+}
+.niitimage
+{
+	float:right;
+	height: 300px;
+	width: 281px;
+	padding-left: 8px;
+	margin-top:20px;	
+	
+}
+
+a
+{
+text-decoration:none;
+color:black;
+}

@@ -1,0 +1,126 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+html
+{
+	background-size: 100%;
+}
+
+body
+
+	{
+		//background-color: #2E2C2C;
+		background-image:url(weather1.jpg);
+		font-family: Helvetica;
+                
+		
+		
+	}
+	
+
+.logobuton
+	{
+		 
+		color:white;
+		width: 64%;	
+		min-width: 230px;
+		margin: auto;
+		text-align: center;
+		font-size: 32px;
+		padding-bottom: 21px;
+}	
+
+	img
+	{
+		margin: auto;
+		opacity:0.4;
+filter:alpha(opacity=40);
+		padding-bottom: 2%;
+                margin-left: 171px;
+                
+		height: 73px;
+		
+		
+
+	
+		margin-left: 171px;
+		
+}
+.logindiv
+	{
+		margin:auto;
+    	
+		background-color: rgba(235,235,235,0.9);
+    	width: 64%;
+    	height:300px;
+    	border-radius: 10px;
+    	min-width: 230px;
+
+		
+	}
+	
+	
+#loginid
+{
+	margin: auto;
+	text-align: center;
+	padding-top: 25px;
+}
+#msg
+{
+	margin: auto;
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 7px;
+	color: rgb(210,80,80);
+	
+
+}
+
+form
+{
+	color: rgb(85,85,85);
+	
+	margin: auto;
+	text-align: center;
+}
+
+.user
+{
+	
+    margin: auto;
+    font-size: 20px;
+    
+    padding-bottom: 3%;
+    text-align: center;
+
+}
+/*
+.password
+{
+	display: inline-block;
+    margin: auto;
+    font-size: 20px;
+    
+    padding-bottom: 7%;
+    text-align: center;
+
+}*/
+.loginbutton
+{
+	margin: auto;
+	padding-top: 3%;
+	text-align: center;
+}
+button
+{
+	width: 90px;
+	height: 35px;
+	background-color:rgb(216,80,86);
+	border-radius: 5px;
+	margin: auto;
+	text-align: center;
+	
+}
